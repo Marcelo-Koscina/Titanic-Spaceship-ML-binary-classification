@@ -3,7 +3,7 @@
 
  Machine Learning model using Extreme Gradient Boosting (XGBoost) algorithm to predict which passengers were transported from the Titanic Spaceship test dataset from Kaggle competition.
 
-Score achieveed: 0.79636 (Rank:938)
+Score achieved: 0.79636 (Rank:938)
 
 Referred Kaggle competition link is available below:
 
